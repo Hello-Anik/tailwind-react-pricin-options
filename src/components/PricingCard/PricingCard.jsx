@@ -22,7 +22,9 @@ const PricingCard = ({pricing}) => {
                 key={index}
                 feature={feature}></PricingFeature>)}
             </div>
+            <button className="btn btn-wide">Subscribe</button>
         </div>
+        
     );
 };
 
