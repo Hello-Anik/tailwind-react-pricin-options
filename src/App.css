@@ -1,6 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Special+Gothic+Expanded+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&family=Special+Gothic+Expanded+One&display=swap');
 body {
-  font-family: "Special Gothic Expanded One", sans-serif;
-  font-weight: 400;
-  font-style: normal;
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
 }
