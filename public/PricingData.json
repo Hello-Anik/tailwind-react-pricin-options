@@ -14,6 +14,7 @@
     },
     {
       "id": 2,
+      "popular": true,
       "name": "Standard",
       "price": "$49/month",
       "description": "Great for regular members looking for variety.",
